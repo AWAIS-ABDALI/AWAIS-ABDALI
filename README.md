@@ -1,4 +1,4 @@
-![logo]([https://github.com/AWAISKHAN32/AWAISKHAN32/blob/main/Black%20Modern%20Vlogger%20YouTube%20Banner.jpg](https://github.com/AWAIS-ABDALI/AWAIS-ABDALI/blob/main/Black%20Minimal%20Business%20Personal%20Profile%20Linkedin%20Banner%20-%20New%20LinkedIn%20Banner.html))
+![logo](https://github.com/AWAIS-ABDALI/AWAIS-ABDALI/blob/main/Black%20Minimal%20Business%20Personal%20Profile%20Linkedin%20Banner%20-%20New%20LinkedIn%20Banner.html)
 <body style="background-color:#E8E8E8">
 <h1 align="center">Hi 👋, I'm Awais Khan Abdali</h1>
 
