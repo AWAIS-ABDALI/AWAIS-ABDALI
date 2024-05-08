@@ -1,4 +1,4 @@
-![logo](https://github.com/AWAIS-ABDALI/AWAIS-ABDALI/blob/main/Black%20Minimal%20Business%20Personal%20Profile%20Linkedin%20Banner%20-%20New%20LinkedIn%20Banner.html)
+![logo](https://github.com/AWAIS-ABDALI/AWAIS-ABDALI/blob/main/Screenshot%202024-05-09%20002618.png)
 <body style="background-color:#E8E8E8">
 <h1 align="center">Hi 👋, I'm Awais Khan Abdali</h1>
 
