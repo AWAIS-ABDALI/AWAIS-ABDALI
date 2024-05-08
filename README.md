@@ -7,16 +7,16 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=awaiskhan32&label=Profile%20views&color=0e75b6&style=flat" alt="awaiskhan32" /> </p>
 
-- 🔭 I’m currently working on <b>WordPress Development</b>              
+- 🔭 I’m currently working on <b>Microsoft Azure AI, WordPress Development</b>              
 
-- 🌱 I’m currently learning <b>Fronted Development</b>
+- 🌱 I’m currently learning <b>Azure Services, Fronted Development</b>
 
-- 🤝 I’m looking for help with <b>Search Engine Optimization</b>
+- 🤝 I’m looking for help with <b>Microsoft Azure Services, Selenium</b>
 
  - 👨‍💻 My Portfolio is available at 
 <a href="https://awaiskhan32.github.io/Portfolio/">https://awaiskhan32.github.io/Portfolio/</a>
 
-- 💬 Ask me about <b>HTML,CSS, JavaScript and WordPress</b>
+- 💬 Ask me about <b>Azure AI and Logic Apps, HTML,CSS, JavaScript and WordPress</b>
 
 - 📫 How to reach me 
 <a href="makabdali786@gmail.com">makabdali786@gmail.com</a>
